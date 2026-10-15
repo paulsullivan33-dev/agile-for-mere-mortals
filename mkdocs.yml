@@ -1,0 +1,21 @@
+site_name: Agile for Mere Mortals
+site_description: Plain-language Agile — the manifesto, Scrum, Kanban, user stories, estimation, and how agile goes wrong.
+site_url: https://paulsullivan33-dev.github.io/agile-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Is Agile?: what-is-agile.md
+  - Scrum: scrum.md
+  - Kanban: kanban.md
+  - User Stories: user-stories.md
+  - Planning and Estimation: planning-estimation.md
+  - How Agile Goes Wrong: agile-failing.md
+  - Agile for Small Teams: agile-for-small-teams.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
