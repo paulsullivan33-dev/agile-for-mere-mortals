@@ -55,3 +55,19 @@ anything version-sensitive says so.
 7. [Agile for Small Teams](agile-for-small-teams.md)
 8. [Troubleshooting](troubleshooting.md)
 9. [Glossary](glossary.md)
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)
+- [GitHub Actions for Mere Mortals](https://paulsullivan33-dev.github.io/github-actions-for-mere-mortals/)
+- [Backstage for Mere Mortals](https://paulsullivan33-dev.github.io/backstage-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/agile-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/agile-for-mere-mortals/blob/main/LICENSE-CODE).
